@@ -1,6 +1,3 @@
-# aldora-calculator-enterprise
-Enterprise-grade all-in-one calculator web app with scientific, finance, statistics, graphing, matrix, and conversion tools.
-
 # Aldora Calculator Enterprise
 
 Modern enterprise calculator application built with HTML, CSS, and JavaScript.
